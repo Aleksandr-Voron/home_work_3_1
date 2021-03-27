@@ -1,0 +1,41 @@
+body {
+  font-size: 18px;
+}
+
+.wrapper {
+  max-width: 786px;
+  margin: 0 auto;
+}
+
+header {
+  text-align: center;
+}
+
+h1 {
+  background: #a52a2a;
+  color: white;
+}
+
+section {
+  text-align: center;
+}
+
+ul {
+  text-align: center;
+}
+
+li {
+  display: inline-block;
+  border: 3px dotted #000;
+}
+
+footer {
+  margin: 30px 0;
+  text-align: center;
+}
+
+.copyright {
+  font-size: 20px;
+  color: #fff;
+  background: #000;
+}
